@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Max Rivera</h1>
-<h3 align="center">I'm from Mexico, A multimedia engineer, On my way to being Full Stack Web developer, and getting better at things like 3D modeling, Engines (Unity), learning technologies and much more!</h3>
+<h3 align="center">I'm from Mexico, A multimedia engineer, On my way to being Full Stack Web developer, and getting better at technologies like 3D modeling, Engines (Unity), sharpening skills and much more!</h3>
 
-- 🔭 I’m currently working on **finishing College**
+- 🔭 I’m currently working on:
+-  **finishing Last year of  University**
+-  **Getting better at FrontEnd Dev **
+-  **Getting better at BackEnd Dev **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

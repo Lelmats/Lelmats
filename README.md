@@ -2,7 +2,7 @@
 <h3 align="center">I'm from Mexico, A multimedia engineer, On my way to being Full Stack Web developer, and getting better at technologies like 3D modeling, Engines (Unity), sharpening skills and much more!</h3>
 
 - 🔭 I’m currently working on:
--  **finishing Last year of  University**
+-  **finishing last year of  University**
 -  **FrontEnd Dev**
 -  **BackEnd Dev**
 

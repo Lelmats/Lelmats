@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on:
 -  **finishing Last year of  University**
--  **Getting better at FrontEnd Dev **
--  **Getting better at BackEnd Dev **
+-  **FrontEnd Dev**
+-  **BackEnd Dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Max Rivera</h1>
-<h3 align="center">I'm from Mexico, with a Bachelor Degree in Multimedia/Software Engineer, On my way to being Full Stack Web developer, and getting better at technologies like 3D modeling, Engines (Unity), sharpening skills and much more!</h3>
+<h3 align="center">I'm from Mexico, with a Bachelor Degree in Multimedia/Software Engineer, A Full Stack Web developer jr, and getting better at technologies like 3D modeling, Engines (Unity), sharpening skills and much more!</h3>
 
 - 🔭 I’m currently working on:
 -  **FrontEnd Dev**

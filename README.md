@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Max Rivera</h1>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNwYTF3bTI5OThnb3JxZW90M2dreGN0d2kwcXRvMGduNGVwb3NpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=790b76115fde52b5b8a0830b9108a8d21c686cb4080e9611&ep=v1_user_favorites&rid=giphy.gif&ct=s" width="200"/>
 </div>
 <div id="header" align="center">
   <a href="your-linkedin-URL">

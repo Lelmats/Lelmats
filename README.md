@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Max Rivera</h1>
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNwYTF3bTI5OThnb3JxZW90M2dreGN0d2kwcXRvMGduNGVwb3NpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h3 align="center">I'm from Mexico, with a Bachelor Degree in Multimedia/Software Engineer, A Full Stack Web developer jr, and getting better at technologies like 3D modeling, Engines (Unity), sharpening skills and much more!</h3>
 

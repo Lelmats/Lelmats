@@ -3,17 +3,16 @@
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=790b76115fde52b5b8a0830b9108a8d21c686cb4080e9611&ep=v1_user_favorites&rid=giphy.gif&ct=s" width="200"/>
 </div>
 <div id="header" align="center">
-  <a href="your-linkedin-URL">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/max-alejandro-rivera-higuera-8484b9208/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-linkedin-URL">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/max-alejandro-rivera-higuera-8484b9208/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-linkedin-URL">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/max-alejandro-rivera-higuera-8484b9208/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
 
 <h3 align="center">I'm from Mexico, with a Bachelor Degree in Multimedia/Software Engineer, A Full Stack Web developer jr, and getting better at technologies like 3D modeling, Engines (Unity), sharpening skills and much more!</h3>
 

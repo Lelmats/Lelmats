@@ -4,26 +4,36 @@
 </div>
 <div id="header" align="center">
   <a href="https://www.linkedin.com/in/max-alejandro-rivera-higuera-8484b9208/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/max-alejandro-rivera-higuera-8484b9208/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/My%20Website-9992D6?style=for-the-badge&logo=&logoColor=black" alt="My Website Badge"/
   </a>
   <a href="https://www.linkedin.com/in/max-alejandro-rivera-higuera-8484b9208/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+    <img src="" alt="LinkedIn Badge"/>
+  
 </div>
 
-<h3 align="center">I'm from Mexico, with a Bachelor Degree in Multimedia/Software Engineer, A Full Stack Web developer jr, and getting better at technologies like 3D modeling, Engines (Unity), sharpening skills and much more!</h3>
+<h3 align="center">I'm from Mexico, with a Bachelor Degree in Multimedia/Software Engineer, A Full Stack Web developer jr, and getting better at technologies like 3D modeling, Engines (Unity), sharpening skills and much more(:</h3>
 
-- 🔭 I’m currently working on:
+## 🔭 I’m currently working on:
 -  **FrontEnd Dev**
 -  **BackEnd Dev**
--  **Data Structures**
+-  **Data Structures (LeetCode)**
+-  **Trying not to be overwhelmed with all i want to learn**
 
+## 🎯 Hobbys
+- **Game Development**
+- **Web Development**
+- **One piece**
+- **Spend so much time on Youtube**
+- **NeetCode lover**
 
-<h3 align="center">Languages i've used & and learning:</h3>
+<h3 align="center">Languages i've used & and learning constantly:</h3>
 <p align="center"> 
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
@@ -61,6 +71,7 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 </p>
+
 <h3 align="center">BackEnd Technologies:</h3>
 <p align="center"> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 

@@ -6,14 +6,12 @@
   <a href="https://www.linkedin.com/in/max-alejandro-rivera-higuera-8484b9208/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/max-alejandro-rivera-higuera-8484b9208/">
-    <img src="https://img.shields.io/badge/My%20Website-9992D6?style=for-the-badge&logo=&logoColor=black" alt="My Website Badge"/
+  <a href="https://maxrivera.dev/">
+    <img src="https://img.shields.io/badge/My%20Website-9992D6?style=for-the-badge&color=605A9A&labelColor=000000" alt="My Website Badge"/
   </a>
   <a href="https://www.linkedin.com/in/max-alejandro-rivera-higuera-8484b9208/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-    <img src="" alt="LinkedIn Badge"/>
-  
+  </a>  
 </div>
 
 <h3 align="center">I'm from Mexico, with a Bachelor Degree in Multimedia/Software Engineer, A Full Stack Web developer jr, and getting better at technologies like 3D modeling, Engines (Unity), sharpening skills and much more(:</h3>

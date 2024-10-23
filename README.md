@@ -25,9 +25,7 @@
 - **Game Development**
 - **Web Development**
 - **One piece**
-- **Spend so much time on Youtube**
-- **NeetCode lover**
-
+  
 <h3 align="center">Languages i've used:</h3>
 <p align="center"> 
   

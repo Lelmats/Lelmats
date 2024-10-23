@@ -28,7 +28,7 @@
 - **Spend so much time on Youtube**
 - **NeetCode lover**
 
-<h3 align="center">Languages i've used & and learning constantly:</h3>
+<h3 align="center">Languages i've used:</h3>
 <p align="center"> 
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 

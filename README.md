@@ -19,8 +19,7 @@
 ## 🔭 I’m currently working on:
 -  **FrontEnd Dev**
 -  **BackEnd Dev**
--  **Data Structures (LeetCode)**
--  **Trying not to be overwhelmed with all i want to learn**
+-  **Data Structures**
 
 ## 🎯 Hobbys
 - **Game Development**

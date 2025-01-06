@@ -89,7 +89,7 @@
     <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="center">Tools I'd use before and others:</h3>
+<h3 align="center">Tools I have used before and others:</h3>
 <p align="center"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 

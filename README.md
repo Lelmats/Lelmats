@@ -19,6 +19,7 @@
 ## 🔭 I’m currently working on:
 -  **FrontEnd Dev**
 -  **BackEnd Dev**
+-  **Learning DevOps**
 -  **Data Structures**
 
 ## 🎯 Hobbys
